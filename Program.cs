@@ -1,12 +1,12 @@
 ﻿// See https://aka.ms/new-console-template for more information
 //Console.WriteLine("Hello, World!");
-namespace SnakeAndLadder
+namespace SnakeAndLader
 {
     class Program
     {
         public static void Main(string[] args)
         {
-            GameOption.CheckOption();
+            WinningPosition.WinOrRestart();
         }
     }
 }
