@@ -6,7 +6,7 @@ namespace SnakeAndLadder
     {
         public static void Main(string[] args)
         {
-            RandomNumber.RollTheDie();
+            GameOption.CheckOption();
         }
     }
 }
