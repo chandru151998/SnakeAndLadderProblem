@@ -2,11 +2,11 @@
 //Console.WriteLine("Hello, World!");
 namespace SnakeAndLadder
 {
-    class Program
+    class program
     {
         public static void Main(string[] args)
         {
-            WinningPoint.WinPoint();
+            ReportOfWinningPosition.WinPoint();
         }
     }
 }
